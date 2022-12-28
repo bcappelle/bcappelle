@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bcappelle
 - 👀 I’m interested in grammar. What?! Does that make me weird?
-- 🌱 I’m currently learning to just use GitHub to work together with others here.
+- 🌱 I’m currently just learning how to use GitHub to work together with others here.
 - 📫 How to reach me: bert.cappelle@univ-lille.fr
 
 <!---
